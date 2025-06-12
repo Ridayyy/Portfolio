@@ -4,9 +4,9 @@ import "./work.css"
 
 const Work = () => {
   return (
-  <section className="projects-section">
+  <section className="projects-section" id='work'>
       <h2 className="section-title">Projects</h2>
-      span.project__subtitle
+      
 
       <div className="projects-container">
         <div className="project-card">

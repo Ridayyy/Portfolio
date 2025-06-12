@@ -12,7 +12,10 @@ const Footer = () => {
         </li>
 
         <li>
-          <a href="#portfolio" className="footer__link">Projects</a>
+          <a href="#work" className="footer__link">Projects</a>
+        </li>
+        <li>
+          <a href="#contact" className="footer__link">Contact</a>
         </li>
 
         <li>
@@ -33,7 +36,7 @@ const Footer = () => {
          <i class='uil uil-github-alt'></i>
      </a>
      </div>
-     <span className="footer__copy">&#169; Coder. All rights reserved</span>
+     <span className="footer__copy">&#169; Rida Aslam. All rights reserved</span>
       </div>
 
     </footer>
